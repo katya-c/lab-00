@@ -1,6 +1,6 @@
 ---
 title: "Lab 00 - Hello IDS!"
-author: "Katya"
+author: "Katya Cheltsova"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+The plot shows a bar chart of the team's favorite numbers.
 
 ### Exercises 19
 
