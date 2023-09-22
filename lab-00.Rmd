@@ -69,4 +69,4 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
 p2
 ```
 
-*Remove this text (including the stars) and add your answer for Exercise 20 here.*
+Bar chart isn't very good at portraying the data as everyone had different hobbies, so if the was recreated for a larger group of people there would be many different bars showing the same value, a table would better show the data.
